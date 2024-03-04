@@ -1,0 +1,4 @@
+To jest dokument
+ktory sluzy do
+prawdzenia dzialania 
+generatora.
